@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-form",
+  "version": "0.1.0",
+  "description": "cordova plugin form using microscope-console",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microscope-mobile-contrib/cordova-plugin-form.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "benjamin heintz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microscope-mobile-contrib/cordova-plugin-form/issues"
+  },
+  "homepage": "https://github.com/microscope-mobile-contrib/cordova-plugin-form#readme",
+  "dependencies": {
+    "ionic-app-lib": "^0.1.0",
+    "lodash": "^3.9.3",
+    "microscope-console": "^0.9.0"
+  }
+}
